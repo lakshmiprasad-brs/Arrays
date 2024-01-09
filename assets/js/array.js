@@ -1,9 +1,7 @@
 /** 
  Author : Build Rise Shine 
 
-Created : 2023
 
-Script : Array 
 
 Description : Implementation of Array Data Structure
 
@@ -15,7 +13,6 @@ Description : Implementation of Array Data Structure
   The example demonstrates how to use the class to create an instance, add elements to it, and 
   perform basic array operations.
 
-(c) Copyright by BRS Studio. 
 **/
 
 // class is a blueprint or a template for creating objects in OOP. It defines properties and methods
